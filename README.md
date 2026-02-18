@@ -1,0 +1,2 @@
+# BreastMoveLimitOnly
+koikatu和koikatsusunshine用的和titiyureeditor里的胸臀限制位移同款功能
