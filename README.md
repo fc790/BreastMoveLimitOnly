@@ -1,2 +1,3 @@
 # BreastMoveLimitOnly
 koikatu和koikatsusunshine用的和titiyureeditor里的胸臀限制位移同款功能
+我做了左右胸分开配置的功能,但是那个同时管左右的那个配置要关,否则默认是先用那个配置
